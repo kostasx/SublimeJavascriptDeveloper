@@ -17,3 +17,11 @@ CTRL + SHIFT + P and type `Javascript`, `Developer`, or right click on any funct
 ## Install
 
 Clone repository and place it in your ST2/3 Packages folder.
+
+## Acknowledgments
+
+This plugin is based on the [Wordpress Developer Resources](https://github.com/tripflex/sublime-wp-developer-resources) SublimeText plugin by Myles McNamara, Matthias Krok, Eric Martel
+
+![Alt text](searchFromSelection.gif "Search from Selection")
+
+![Alt text](searchFromInput.gif "Search from Input")
