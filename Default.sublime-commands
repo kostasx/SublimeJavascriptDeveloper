@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Javascript Developer: Search Selection",
+        "command": "javascript_developer_search_selection"
+    },
+    {
+        "caption": "Javascript Developer: Search from Input",
+        "command": "javascript_developer_search_from_input"
+    }
+]

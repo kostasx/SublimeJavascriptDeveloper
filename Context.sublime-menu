@@ -1,0 +1,15 @@
+[
+    {
+        "caption": "Javascript Developer",
+        "children": [
+            {
+                "caption": "Search Selection",
+                "command": "javascript_developer_search_selection"
+            },
+            {
+                "caption": "Search From Input",
+                "command": "javascript_developer_search_from_input"
+            }
+        ]
+    }
+]

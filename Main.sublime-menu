@@ -1,0 +1,24 @@
+[
+    {
+        "caption": "Tools",
+        "children": [
+            {
+                "caption": "Javascript Developer",
+                "children": [
+                    {
+                        "caption": "Search Selection",
+                        "command": "javascript_developer_search_selection"
+                    },
+                    {
+                        "caption": "Search From Input",
+                        "command": "javascript_developer_search_from_input"
+                    }
+                ],
+                "id": "javascript_developer",
+                "mnemonic": "f"
+            }
+        ],
+        "id": "tools",
+        "mnemonic": "t"
+    }
+]
