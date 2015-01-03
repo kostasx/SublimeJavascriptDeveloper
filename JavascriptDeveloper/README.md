@@ -21,7 +21,3 @@ Clone repository and place folder **JavascriptDeveloper** in your ST2/3 Packages
 ## Acknowledgments
 
 This plugin is based on the [Wordpress Developer Resources](https://github.com/tripflex/sublime-wp-developer-resources) SublimeText plugin by Myles McNamara, Matthias Krok and Eric Martel.
-
-![Alt text](searchFromSelection.gif "Search from Selection")
-
-![Alt text](searchFromInput.gif "Search from Input")
