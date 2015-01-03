@@ -20,7 +20,7 @@ Clone repository and place it in your ST2/3 Packages folder.
 
 ## Acknowledgments
 
-This plugin is based on the [Wordpress Developer Resources](https://github.com/tripflex/sublime-wp-developer-resources) SublimeText plugin by Myles McNamara, Matthias Krok, Eric Martel
+This plugin is based on the [Wordpress Developer Resources](https://github.com/tripflex/sublime-wp-developer-resources) SublimeText plugin by Myles McNamara, Matthias Krok and Eric Martel.
 
 ![Alt text](searchFromSelection.gif "Search from Selection")
 
